@@ -1,7 +1,6 @@
 # GraphicTEB
 ## Introduction and performance
-<a href="https://www.youtube.com/watch?v=SzZGKdbzH9Q" target="_blank"><div align=center><img src="https://user-images.githubusercontent.com/36269534/202330683-31b40b70-42f5-4a52-9af5-541882e50353.png" 
-width="700"  border="10" /></div></a>
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1668649862/video_to_markdown/images/youtube--SzZGKdbzH9Q-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=SzZGKdbzH9Q "")
 
 ## Acknowledge and apology
 This work is based on several open-source works, thanks for their contribution and inspiration: 
